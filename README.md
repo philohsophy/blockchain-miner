@@ -1,7 +1,7 @@
-# dummy-blockchain-miner
+# blockchain-miner
 
-Part of [Dummy-Blockchain project](https://github.com/users/philohsophy/projects/1)
+Part of [Blockchain-Demo project](https://github.com/philohsophy/blockchain-demo)
 
 ## Outline
 
-Mines Blocks in order to insert transactions into dummy-blockchain
+Mines Blocks in order to insert transactions into blockchain
